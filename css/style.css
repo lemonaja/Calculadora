@@ -35,7 +35,7 @@ body{
     border-radius: 5px;
     border: none;
     color: #A40EE4;
-    box-shadow: 6px 6px 12px black, -6px -6px 12px #212121 ;
+    box-shadow: 6px 6px 12px black, -6px -6px 12px #212121;
 }
 
 .botao:hover{
@@ -54,6 +54,7 @@ body{
     padding: 5px;
     margin-bottom: 25px;
     margin-top: 20px;
+    box-shadow: 6px 6px 12px black, -6px -6px 12px #212121 ;
 }
 
 .imgdelete{
